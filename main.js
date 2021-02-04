@@ -5,7 +5,7 @@ $(document).ready( function() {
        var y = event.pageY - this.offsetTop;
        var txt = x + "/" + y;
     
-       $('#coord').text()
+       $('#coord').text();
     });
     
 });
